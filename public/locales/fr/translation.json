@@ -1,0 +1,294 @@
+{
+    "header":{
+    "title": "BIENVENUE A",
+    "name":"LA CLINIQUE PRESTIGE",
+    "language":"Français",
+    "links": {
+      "about":"Qui Sommes-Nous?",
+      "services":"Nos Services",
+      "pricing":"Tarifs",
+      "home":"Accueil",
+      "reviews":"Témoignages",
+      "visit":"Nous Visiter",
+      "activities":"Activités",
+      "contact":"Contact"
+    },
+    "testimonies_button":"Ils Parlent de Nous",
+    "notifications":"Découvrez nos services de qualité."
+  },
+    "record": {
+      "title": "Nos Records",
+      "bold": "Nous prenons soin de vous",
+      "since": "depuis",
+      "body": "Prestige Health Clinic est une formation sanitaire privée, créee le 04 Septembre 2017. Nous sommes situés à Babadjou, Route Mbouda-Bamenda, Derrière le marché Toumaka, département des Bamboutos, région de l'Ouest.",
+      "clients": "Patients",
+      "surgery": "Chirurgies",
+      "satisfaction": "Patients satisfaits",
+      "button":"Consulter Nos Activités"
+    },
+    "services": {
+      "title": "Nos",
+      "title1":"Services",
+      "consultation":"Consultations Générales et Gynécologiques",
+      "consultation_desc":"Nos médécins attentionnés mettent à votre disposition toute leur expérience pour vous offrir le meilleur diagnostic.",
+      "surgeon": "Chirurgies",
+      "surgeon_desc": "Des chirurgiens qualifiés et expérimentés sauront mettre à profit leur professionalisme pour vous remettre sur pied.",
+      "labo":"Laboratoire d'Analyses Médicales",
+      "labo_desc":"Nous sommes dotés d'un laboratoire d'analyses médicales équipé du meilleur matériel.",
+      "born":"Accouchements",
+      "born_desc":"Dans des salles d'accouchements propres et accueillantes, nos sages-femmes ont fait venir au monde des centaines de bébés en bonne santé.",
+      "vaccination":"Vaccination",
+      "vaccination_desc":"Des programmes réguliers de vaccination infantiles sont organisés au sein de notre formation sanitaire. N'hésitez pas à protéger votre enfant !",
+      "kine":"Kinésithérapie",
+      "kine_desc":"Notre masseur-kinésithérapeute est le spécialiste du mouvement perturbé. Son objectif est de rendre à votre corps ses « capacités fonctionnelles », c'est-à-dire sa capacité à mobiliser ses membres.",
+      "dental":"Soins Dentaires",
+      "dental_desc":"Souriez à la vie grâce à la douceur des soins dentaires réalisés dans un cadre propre et convivial !",
+      "radio":"Radiologie",
+      "radio_desc":"Nos experts en imageries médicales vous offriront des échographies et radiologies fiables pour votre quête du bien-être.",
+      "ophta":"Ophtalmologie",
+      "ophta_desc":"L'ophtalmologue s’intéressera à la structure et au fonctionnement de vos yeux, ainsi que des maladies et anomalies qui peuvent les atteindre.",
+      "ortho":"Orthopédie",
+      "ortho_desc":"L’orthopédiste s’intéressera au diagnostic et à la prise en charge médicale et chirurgicale des maladies du système musculo-squelettique, c’est à dire des os, des articulations, des ligaments, des muscles, des tendons et des nerfs. ",
+      "pharmacy":"Pharmacie",
+      "pharmacy_desc":"Dotée de médicaments divers afin de répondre à toute éventualité, notre pharmacie est ouverte 24h/24.",
+      "advice":"Conseils et Suivi",
+      "advice_desc":"Mères d'enfants, couples, jeunes peuvent bénéficier des séances de conseils et suivi organisées par nos professionels de la santé."
+    },
+    "experts": {
+      "title":"Nos Experts",
+      "bold":"Nous avons la plus",
+      "bold1":"professionnelle",
+      "bold2":"équipe médicale.",
+      "body":"Empathie, écouter son patient, comprendre ses demandes et  savoir donner de son temps, établir le bon diagnostic et prodiguer les soins en conséquence sont primordiaux au fait de pouvoir soigner. Nos médécins incarnent ce standard de professionnalisme.",
+      "subtitle":"Professionalisme",
+      "subtitle_body":"Nous avons le meilleur personnel soignant à votre service.",
+      "subtitle1":"Moins cher",
+      "subtitle1_body":"Nous vous offrons les meilleurs tarifs pour rendre la santé accessible à tous. Venez vérifier par vous même.",
+      "button":"Consulter les Prix",
+      "med1":"Chirurgienne Dentiste",
+      "med2":"Médécin Généraliste",
+      "med3":"Médécin Ophtalmologie",
+      "med4":"Médécin Généraliste"
+    },
+    "testimonies":{
+      "title":"Témoignages",
+      "heading1":"Nos Patients",
+      "heading2":"Nous Aiment.",
+      "description":"Voici ce que nos patients disent à notre propos.",
+      "test":{
+        "body":"Ils ont réussi mon opération dans des locaux propres, avec une équipe hautement qualifiée, expérimentée et professionnelle. Merci pour cette belle expérience!",
+        "name":"Asonfack Fernand",
+        "department":"Patient Chirurgie"
+      },
+      "test1":{
+        "body":"Pendant longtemps j'ai consulté des médécins en vain. Chez Prestige Health Clinic, le bon diagnostique fut établi et j'ai reçu le traitement adéquat.",
+        "name":"Belomo Christian",
+        "department":"Patient Consultation Générale"
+      },
+      "test2":{
+        "body":"Les sages-femmes ont su me rassurer et m'encourager lors de la naissance de mon premier enfant. Leur attention m'a profondément marquée",
+        "name":"Stella Tchatat",
+        "department":"Patiente Maternité"
+      },
+      "test3":{
+        "body":"J'avais une vision trouble et floue, qui s'aggravait avec le temps. Prestige Health Clinic m'a dépisté une cataracte. Maintenant je vois aussi clair qu'avant.",
+        "name":"Yufenyuy Fidelia",
+        "department":"Patiente Ophtalmologie"
+      }
+
+    },
+    "pricing": {
+      "title":"Prix",
+      "heading":"Prix Abordables",
+      "description":"Soucieux de fournir des soins sanitaires à toutes les couches sociales, nous vous offrons des services à des prix dérisoires.",
+      "card":{
+        "title":"Accouchement",
+        "line":"Accueil et installation",
+        "line1":"Surveillance maternelle",
+        "line2":"Surveillance fœtale",
+        "line3":"Délivrance..."
+      },
+      "card1":{
+        "title":"Consultation Générale",
+        "subtitle":"Le médecin commence sa consultation par l’analyse des données objectives (signes vitaux) puis des données subjectives telles que :",
+        "line":"Signes et symptômes",
+        "line1":"Raison de la consultation",
+        "line2":"Antécédents médicaux",
+        "line3":"Histoire de la maladie",
+        "line4":" Complément d’anamnèse",
+        "line5":"Examen clinique..."
+      },
+      "card2":{
+        "title":"Soins Dentaires",
+        "line":"Consultation",
+        "line1":"Détartrage",
+        "line2":"Soin des gencives",
+        "line3":"Dévitalisation",
+        "line4":" Prothèse dentaire..."
+      },
+      "card3":{
+        "title":"Consultation Ophtalmologique",
+        "line":"Interrogatoire : motif de consultation, antécédents médicaux, traitements éventuels, symptômes…",
+        "line1":"Mesure de la puissance de vos lunettes",
+        "line2":"Mesure de votre acuité visuelle",
+        "line3":"Mesure de votre pression intraoculaire",
+        "line4":" Si nécessaire réalisation d’examens complémentaires adaptés à votre cas (OCT, biométrie topographie cornéenne, spéculaire…)..."
+      },
+      "button":"Réserver une Consultation"
+    },
+    "faq": {
+      "title":"Avez-vous des",
+      "title1":"Questions ?",
+      "description" : "Voici quelques questions fréquemment posées sur notre  établissement. Si vous avez d'autres questions, n'hésitez pas à nous contacter via le formulaire de contact ci-dessous.",
+      "q":"Avez-vous une cantine ?",
+      "ans":"Oui, au sein de l'hopital nous avons une cantine qui sert des plats de qualité à des prix abordables.",
+      "q1":"Avez-vous toujours de l'eau courante et l'électricité ?",
+      "ans1":"Oui, en plus des énergies fournies par CAMWATER et ENEO, nous avons des unités de réserves qui assurent la continuité de service tels que des bâches à eau et un groupe électrogène.",
+      "q2":"Vos chambres d'hospitalisations sont-elles propres et équipées de moustiquaires imprégnées ?",
+      "ans2":"Oui ! Ayant à coeur votre bien-être, nous mettons un point d'honneur sur la netteté des chambres et des lits.",
+      "q3":"Les locaux sont-ils sécurisés par des virgiles",
+      "ans3":"Oui, 24h/24 la sécurité est assurée par un personnel qualifié et dévoué. Donc, votre séjour chez nous sera des plus paisible !"
+    },
+    "contact":{
+      "title":"Nous Contacter",
+      "subtitle":"Sentez-vous libre de",
+      "subtitle1":"nous écrire",
+      "subtitle2":".",
+      "description":"Utilisez ce formulaire pour réserver un rendez-vous ou pour obtenir davantage de renseignements.",
+      "button":"Envoyer",
+      "email":"Votre Adresse Email",
+      "email_error":"Veuillez entrer un email valide.",
+      "fullname":"Votre Nom",
+      "fullname_error":"Veuillez entrer votre nom et prénom.",
+      "subject":"Sujet",
+      "subject_error":"Veuillez entrer un sujet.",
+      "message":"Votre Message",
+      "message_error":"Veuillez entrer un message.",
+      "success":"Message Envoyé Avec Succès !"
+    },
+    "footer":{
+      "copy":"Copyright",
+      "right":"Tous Droits Réservés",
+      "walf":"Développé par"
+    },
+    "visit":{
+      "main":{
+        "title":"Un aperçu de nos",
+        "title1":"activités"
+      },
+      "tabs":{
+        "services":"Services",
+        "facilities":"Nos Facilités",
+        "social":"Nos Activités Sociales",
+        "environment":"Environnement",
+        "surgery":{
+          "title":"Bloc Opératoire",
+          "content":"Des médécins pratiquant une chirurgie lourde."
+        },
+        "ophta":{
+          "title":"Ophtalmologie",
+          "content":"Ophtalmologue en consultation."
+        },
+        "dental":{
+          "title":"Service Dentaire",
+          "content":"La dentiste pratiquant des soins dentaires sur une patiente."
+        },
+        "echo":{
+          "title":"Salle d'Echographie",
+          "content":"Notre salle d'échographie."
+        },
+        "imagerie":{
+          "title":"Salle d'Imagerie",
+          "content":"Notre salle d'Imagerie."
+        },
+        "digital":{
+          "title":"Salle de Contrôle",
+          "content":"Notre salle de contrôle digital."
+        },
+        "labo":{
+          "title":"Laboratoire d'Analyses",
+          "content":"Le laboratoire d'analyses médicales."
+        },
+        "room":{
+          "title":"Chambres d'Hospitalisations",
+          "content":"Des chambres propres, des lits soyeux pour un rétablissement en toute quiétude."
+        },
+        "chair":{
+          "title":"Patiente sur Chaise Roulante",
+          "content":"L'amabilité et la compassion de notre équipe est touchante."
+        },
+        "pediatrie":{
+          "title":"Lits de la Pédiatrie",
+          "content":"Notez la propreté et les moustiquaires imprégnées pour la protection de la mère et du bébé."
+        },
+        "consultation":{
+          "title":"Consultation",
+          "content":"A l'écoute et bienveillant, un de nos médécins écoute une patiente."
+        },
+        "ambulances":{
+          "title":"Ambulances",
+          "content":"Deux véhicules mis à votre disposition pour faciliter le déplacement."
+        },
+        "exterieur":{
+          "title":"Vue Externe",
+          "content":"La vue externe de notre centre."
+        },
+        "femmeReedu":{
+          "title":"Femme en Réeducation",
+          "content":"Une patiente lors d'une séance de réeducation."
+        },
+        "hommeReedu":{
+          "title":"Homme en Réeducation",
+          "content":"Des patients lors d'une séance de réeducation."
+        },
+        "pharmacie":{
+          "title":"La Pharmacie",
+          "content":"Notre pharmacie bien fournie et ouverte 24H/24."
+        },
+        "matelas":{
+          "title":"Matelas de Couchage",
+          "content":"Nous fournissons aux gardes malades des matelas afin qu'ils puissent se reposer dans de bonnes conditions."
+        },
+        "vaccination":{
+          "title":"Vaccination Infatile",
+          "content":"Une séance de vaccination durant laquelle des conseils sont donnés aux mères d'enfants."
+        },
+        "eau":{
+          "title":"Bâche à Eau",
+          "content":"Une réserve d'eau pour assurer la continuité de service."
+        },
+        "staff":{
+          "title":"Notre Equipe",
+          "content":"Une équipe dévouée à la tâche pour vous redonner la santé."
+        },
+        "ortho":{
+          "title":"Bloc Opératoire",
+          "content":"L'horthopédiste pratiquant une chirurgie sur un patient."
+        },
+        "bar":{
+          "title":"Détente",
+          "content":"Une détente lors de la fête du travail le 1er Mai 2019."
+        },
+        "conviv":{
+          "title":"Convivialité",
+          "content":"La convivialité est toujours au rendez-vous entre collègues!"
+        },
+        "messe":{
+          "title":"Messe d'Action de Grâce",
+          "content":"Une messe d'action de grâce."
+        },
+        "recomp":{
+          "title":"Remise des Prix",
+          "content":"La gratification de nos valeureux travailleur le 1er Mai 2019."
+        },
+        "stage":{
+          "title":"Formation de Stagiaires",
+          "content":"La formation des futurs personnels soignants."
+        },
+        "fete":{
+          "title":"Fête du Travail 1er Mai 2019",
+          "content":"La célébration de la fête du travail."
+        }
+      }
+    }
+}

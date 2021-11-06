@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+      "authors": [
+        "Fredoly Wagni"
+      ],
+      "last-updated": "2021-07-24",
+      "locale": "fr",
+      "message-documentation": "qqq"
+    },
+    "welcome": "Bienvenue!",
+    "message_from": "Je vous ai envoyé un message, jattend votre reponse!"
+  }

@@ -1,0 +1,293 @@
+{
+  "header":{
+    "title": "WELCOME TO",
+    "name":"PRESTIGE HEALTH Clinic",
+    "language":"English",
+    "links": {
+      "about":"About Us",
+      "services":"Services",
+      "pricing":"Pricing",
+      "home":"Home",
+      "reviews":"Testimonies",
+      "visit":"Visit Us",
+      "activities":"Activities",
+      "contact":"Contact"
+    },
+    "testimonies_button":"Read Patients Testimonies",
+    "notifications":"Discover our quality services."
+  },
+    "record": {
+      "title": "Our Track Record",
+      "bold": "We take care of you",
+      "since": "since",
+      "body": "Prestige Health Clinic is a private health training, created on September 04, 2017. We are located in Babadjou, Mbouda-Bamenda road, Behind Toumaka market, Bamboutos department, West region.",
+      "clients": "Patients",
+      "surgery": "Surgeries",
+      "satisfaction": "Satisfied patients",
+      "button":"See Our Activities"
+    },
+    "services": {
+      "title": "Our",
+      "title1":"Services",
+      "consultation":"General and Gynecological Consultations",
+      "consultation_desc": "Our caring doctors put all their experience at your disposal to offer you the best diagnosis.",
+      "surgeon": "Surgeries",
+      "surgeon_desc": "Qualified and experienced surgeons will use their professionalism to get you back on your feet.",
+      "labo":"Medical Analysis Laboratory",
+      "labo_desc": "We have a medical analysis laboratory with the best equipment",
+      "born":"Deliveries",
+      "born_desc": "In clean, welcoming delivery rooms, our midwives have delivered hundreds of healthy babies.",
+      "vaccination":"Vaccination",
+      "vaccination_desc": "Regular childhood vaccination programs are organized in our health facility. Do not hesitate to protect your child !",
+      "kine":"Physiotherapy",
+      "kine_desc": "Our massage therapist is a specialist in disturbed movement. His objective is to restore your body's 'functional capacities', like its ability to mobilize its limbs",
+      "dental":"Dental Care",
+      "dental_desc": "Smile at life with gentle dental care performed in a clean, friendly setting !",
+      "radio":"Radiology",
+      "radio_desc": "Our medical imaging experts will offer you reliable ultrasound and radiology for your quest for well-being.",
+      "ophta":"Ophthalmology",
+      "ophta_desc": "The ophthalmologist will focus on the structure and function of your eyes, as well as the diseases and abnormalities that can affect them.",
+      "ortho":"Orthopedics",
+      "ortho_desc": "The orthopedist will be concerned with the diagnosis and medical and surgical management of diseases of the musculoskeletal system, i.e., bones, joints, ligaments, muscles, tendons and nerves. ",
+      "pharmacy":"Pharmacy",
+      "pharmacy_desc": "Equipped with a variety of medications to meet any eventuality, our pharmacy is open 24 hours.",
+      "advice": "Advice and Follow-up",
+      "advice_desc": "Mothers of children, couples, young people can benefit from advice and follow-up sessions organized by our health professionals."
+    },
+    "experts": {
+      "title":"Our Experts",
+      "bold":"We have the most",
+      "bold1":"professional",
+      "bold2":"medical team.",
+      "body":"Empathy, listening to the patient, understanding the patient's needs and giving time, making the right diagnosis and providing the right care are all essential to providing care. Our doctors embody this standard of professionalism.",
+      "subtitle": "Professionalism",
+      "subtitle_body": "We have the best care staff at your service.",
+      "subtitle1": "Cheaper",
+      "subtitle1_body": "We offer the best rates to make healthcare accessible to everyone. Come check it out for yourself.",
+      "button":"View Prices",
+      "med1": "Dental Surgeon",
+      "med2": "General Practitioner",
+      "med3": "Ophthalmologist",
+      "med4": "General Practitioner"
+    },
+    "testimonies":{
+      "title": "Testimonials",
+      "heading1": "Our Patients",
+      "heading2": "Love Us.",
+      "description": "This is what our patients say about us.",
+      "test":{
+        "body": "They successfully completed my surgery in a clean facility, with a highly trained, experienced and professional team. Thank you for a great experience!",
+        "name": "Asonfack Fernand",
+        "department": "Patient Surgery"
+      },
+      "test1":{
+        "body": "For a long time I consulted doctors in vain. At Prestige Health Clinic, the right diagnosis was made and I received the right treatment",
+        "name": "Belomo Christian",
+        "department": "Patient General Consultation"
+      },
+      "test2":{
+        "body": "The midwives were able to reassure and encourage me during the birth of my first child. Their attention had a profound effect on me",
+        "name": "Stella Tchatat",
+        "department": "Maternity Patient"
+      },
+      "test3":{
+        "body": "I had blurred, blurry vision that was getting worse over time. Prestige Health Clinic screened me for a cataract. Now I can see as clearly as before.",
+        "name": "Yufenyuy Fidelia",
+        "department": "Ophthalmology Patient"
+      }
+    },
+    "pricing": {
+      "title": "Pricing",
+      "heading": "Affordable Prices",
+      "description": "In an effort to provide health care to all walks of life, we offer services at low prices.",
+      "card":{
+        "title": "Childbirth",
+        "line": "Welcome and installation",
+        "line1": "Maternal supervision",
+        "line2": "Fetal monitoring",
+        "line3": "Delivery..."
+      },
+      "card1":{
+        "title": "General Consultation",
+        "subtitle": "The doctor starts the consultation by analyzing the objective data (vital signs) and then the subjective data such as:",
+        "line": "Signs and symptoms",
+        "line1": "Reason for consultation",
+        "line2": "Medical history",
+        "line3": "History of illness",
+        "line4": "Additional history",
+        "line5": "Clinical examination..."
+      },
+      "card2":{
+        "title": "Dental care",
+        "line": "Consultation",
+        "line1": "Scaling",
+        "line2": "Gum Care",
+        "line3": "Vitalization",
+        "line4": "Dentures..."
+      },
+      "card3":{
+        "title": "Ophthalmologic consultation",
+        "line": "Interview: reason for consultation, medical history, possible treatments, symptoms...",
+        "line1": "Measurement of the power of your glasses",
+        "line2": "Measurement of your visual acuity",
+        "line3": "Measurement of your intraocular pressure",
+        "line4": "If necessary, additional examinations adapted to your case (OCT, corneal topography biometry, specular...)..."
+      },
+      "button": "Book a Consultation"
+    },
+    "faq": {
+      "title":"Do you have",
+      "title1":"Questions ?",
+      "description":"Here are some frequently asked questions about our services from our loving patients. Should you have any other questions, feel free to reach out via the contact form below.",
+      "q": "Do you have a canteen?",
+      "ans": "Yes, within the hospital we have a canteen that serves quality food at affordable prices.",
+      "q1": "Do you always have running water and electricity?",
+      "ans1": "Yes, in addition to the energy provided by CAMWATER and ENEO, we have reserve units that ensure continuity of service such as water tanks and a generator.",
+      "q2": "Are your hospital rooms clean and equipped with impregnated mosquito nets?",
+      "ans2": "Yes, as we care about your well-being, we make it a point of honor to keep our rooms and beds clean",
+      "q3": "Are the rooms secured by virgil",
+      "ans3": "Yes, 24h/24 security is ensured by a qualified and dedicated staff. So your stay with us will be most peaceful !"
+    },
+    "contact":{
+      "title":"Contact Us",
+      "subtitle":"Feel free to",
+      "subtitle1":"get in touch",
+      "subtitle2":"with us",
+      "description": "Use this form to book an appointment or to get more information.",
+      "button":"Send",
+      "email":"Your Email Address",
+      "email_error": "Please enter a valid email.",
+      "fullname":"Full Name",
+      "fullname_error": "Please enter your first and last name.",
+      "subject":"Subject",
+      "subject_error": "Please enter a subject.",
+      "message":"Your Message Here",
+      "message_error":"Please enter a message.",
+      "success":"Message Sent Successfully !"
+    },
+    "footer":{
+      "copy":"Copyright",
+      "right":"All Rights Reserved",
+      "walf":"Developed by"
+    },
+    "visit":{
+      "main":{
+        "title":"An overview of our",
+        "title1":"activities"
+      },
+      "tabs":{
+        "services":"Services",
+        "facilities":"Our Facilities",
+        "social":"Our Social Activities",
+        "environment":"Environment",
+        "surgery":{
+          "title": "Operating room",
+          "content": "Doctors performing heavy surgery."
+        },
+        "ophta":{
+          "title": "Ophthalmology",
+          "content": "Ophthalmologist in consultation."
+        },
+        "dental":{
+          "title": "Dental Service",
+          "content": "The dentist performing dental care on a patient."
+        },
+        "echo":{
+          "title": "Ultrasound room",
+          "content": "Our ultrasound room."
+        },
+        "imagerie":{
+          "title": "Imaging Room.",
+          "content": "Our Imaging Room."
+        },
+        "digital":{
+          "title": "Control room",
+          "content": "Our digital control room."
+        },
+        "labo":{
+          "title": "Laboratory of Analyses",
+          "content": "The medical analysis laboratory."
+        },
+        "room":{
+          "title": "Hospitalization rooms",
+          "content": "Clean rooms, silky beds for a peaceful recovery."
+        },
+        "chair":{
+          "title": "Wheelchair Patient",
+          "content": "The friendliness and compassion of our staff is touching."
+        },
+        "pediatrie":{
+          "title": "Pediatrics Beds",
+          "content": "Note the cleanliness and the impregnated mosquito nets for the protection of mother and baby."
+        },
+        "consultation":{
+          "title": "Consultation",
+          "content": "Listening and caring, one of our doctors listens to a patient."
+        },
+        "ambulances":{
+          "title": "Ambulances",
+          "content": "Two vehicles at your disposal to facilitate travel."
+        },
+        "exterieur":{
+          "title": "External View",
+          "content": "The external view of our clinic."
+        },
+        "femmeReedu":{
+          "title": "Woman in Rehabilitation",
+          "content": "A patient in a rehabilitation session."
+        },
+        "hommeReedu":{
+          "title": "Man in Rehabilitation.",
+          "content": "Patients in a rehabilitation session."
+        },
+        "pharmacie":{
+          "title": "The Pharmacy",
+          "content": "Our well-stocked 24-hour pharmacy."
+        },
+        "matelas":{
+          "title": "Sleeping Mattress",
+          "content": "We provide sick guards with mattresses so that they can rest in good conditions."
+        },
+        "vaccination":{
+          "title": "Infatile Vaccination",
+          "content": "A vaccination session during which advice is given to mothers of children."
+        },
+        "eau":{
+          "title": "Water Cover",
+          "content": "A water supply to ensure continuity of service."
+        },
+        "staff":{
+          "title": "Our Team",
+          "content": "A team dedicated to the task of restoring your health."
+        },
+        "ortho":{
+          "title": "Operating Room",
+          "content": "The orthopedist performing surgery on a patient."
+        },
+        "bar":{
+          "title": "Relaxation",
+          "content": "A Labor Day relaxation on May 1, 2019."
+        },
+        "conviv":{
+          "title": "Conviviality",
+          "content": "Conviviality is always in the air with colleagues!"
+        },
+        "messe":{
+          "title": "Thanksgiving Mass",
+          "content": "A Mass of Thanksgiving."
+        },
+        "recomp":{
+          "title": "Award Ceremony.",
+          "content": "The gratification of our valiant workers on May 1, 2019."
+        },
+        "stage":{
+          "title": "Training of Interns",
+          "content": "The training of future healthcare personnel."
+        },
+        "fete":{
+          "title": "Labor Day May 1, 2019",
+          "content": "Labor Day celebration."
+        }
+      }
+    }
+}
