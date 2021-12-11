@@ -74,13 +74,14 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <!-- firebase -->
     <script type="module">
       // Import the functions you need from the SDKs you need
-      import { initializeApp } from "https://www.gstatic.com/firebasejs/9.1.0/firebase-app.js";
-      import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.1.0/firebase-analytics.js";
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js";
       // TODO: Add SDKs for Firebase products that you want to use
       // https://firebase.google.com/docs/web/setup#available-libraries
-    
+
       // Your web app's Firebase configuration
       // For Firebase JS SDK v7.20.0 and later, measurementId is optional
       const firebaseConfig = {
@@ -89,10 +90,10 @@
         projectId: "prestigetest-9db72",
         storageBucket: "prestigetest-9db72.appspot.com",
         messagingSenderId: "188985653710",
-        appId: "1:188985653710:web:41f572fef80e17b1cad39f",
-        measurementId: "G-WM41ZZSSS5"
+        appId: "1:188985653710:web:bb739a64caf2ca84cad39f",
+        measurementId: "${config.measurementId}",
       };
-    
+
       // Initialize Firebase
       const app = initializeApp(firebaseConfig);
       const analytics = getAnalytics(app);

@@ -76,7 +76,7 @@ export default () => {
             </SocialLink>
           </SocialLinksContainer>
           <WalfContainer style={{padding:"16px"}}>
-          <WalfText style={{paddingRight:"8px"}}>{t("footer.walf")}</WalfText><a href="https://fredolywagni.com" target="_blank" rel="noopener"><WalfLogo src={walf} style={{clipPath: "polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%)"}}/></a>
+          <WalfText style={{paddingRight:"8px"}}>{t("footer.walf")}</WalfText><a href="https://fredolywagni.com" target="_blank" rel="noopener">www.fredolywagni.com</a>
           </WalfContainer>
           <CopyrightText>
             &copy; {t("footer.copy")} {new Date().getFullYear()}, {t("header.name")} {t("footer.right")}.

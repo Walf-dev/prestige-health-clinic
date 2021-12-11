@@ -17,6 +17,9 @@ import { useTranslation } from "react-i18next";
 //to store chosen language in cookies
 import Cookies from "js-cookie";
 import sthetoscope from "../../images/demo/sthetoscope.jpg";
+import english from "../../images/english.png";
+import french from "../../images/french.png";
+
 import { PrimaryButton as PrimaryButtonBase } from "components/misc/Buttons.js";
 
 const StyledHeader = styled(Header)`
@@ -144,8 +147,8 @@ export default () => {
             onClose={handleCloseLangMenu}
           >
           <Radio.Group defaultValue={language} onChange={changeLanguage}>
-          <MenuItem><Radio.Button value="en">English</Radio.Button></MenuItem>
-          <MenuItem><Radio.Button value="fr">Français</Radio.Button></MenuItem>
+          <MenuItem><Radio.Button value="en"><img src={english} width="25" height="25" alt="english"/></Radio.Button></MenuItem>
+          <MenuItem><Radio.Button value="fr"><img src={french} width="25" height="25" alt="french"/></Radio.Button></MenuItem>
           </Radio.Group>
           </Menu>
           {/*end lang session */}
