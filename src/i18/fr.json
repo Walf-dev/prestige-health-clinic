@@ -30,9 +30,29 @@
     "index_services4_paragraph": "Notre massothérapeute est un spécialiste du mouvement perturbé. Son objectif est de restaurer les 'capacités fonctionnelles' de votre corps, comme sa capacité à mobiliser ses membres.",
     "index_services5_title": "Soins dentaires",
     "index_services5_paragraph": "Souriez à la vie grâce à des soins dentaires doux réalisés dans un cadre propre et convivial !",
-    "index_services6_title": "Ophtalmologie",
+    "index_services6_title": "Consultation Ophtalmologique",
     "index_services6_paragraph": "L'ophtalmologue se concentre sur la structure et la fonction de vos yeux, ainsi que sur les maladies et anomalies qui peuvent les affecter.",
+    "index_services7_title": "Accouchements",
+    "index_services7_paragraph": "Dans des salles d'accouchement propres et accueillantes, nos sages-femmes ont mis au monde des centaines de bébés en bonne santé.",
+    "index_services8_title": "Vaccination",
+    "index_services8_paragraph": "Des programmes réguliers de vaccination des enfants sont organisés dans notre établissement de santé. N'hésitez pas à protéger votre enfant !",
+    "index_services9_title": "Formations aux métiers sanitaires",
+    "index_services9_paragraph": "Obtenez un diplôme ou un certificat vous préparant efficacement au monde professionnel.",
+    "index_services10_title": "Radiologie",
+    "index_services10_paragraph": "Nos experts en imagerie médicale vous proposent une échographie et une radiologie fiables pour votre quête de bien-être.",
+    "index_services11_title": "Orthopédie",
+    "index_services11_paragraph": "L'orthopédiste s'occupe du diagnostic et de la prise en charge médicale et chirurgicale des maladies du système musculo-squelettique, c'est-à-dire des os, des articulations, des ligaments, des muscles, des tendons et des nerfs.",
+    "index_services12_title": "Pharmacie",
+    "index_services12_paragraph": "Équipée d'une variété de médicaments pour répondre à toute éventualité, notre pharmacie est ouverte 24 heures sur 24.",
+    "index_services13_title": "Conseils et suivi",
+    "index_services13_paragraph": "Les mères d'enfants, les couples, les jeunes peuvent bénéficier de conseils et de séances de suivi organisés par nos professionnels de la santé.",
     "index_services_btn": "Tous Nos Services",
+    "appointment_btn": "Prendre Rendez-vous",
+    "PRICE_SECTION": "##################PRICE_SECTION################################",
+    "price_title" :"Des Prix Abordables",
+    "price_paragraph" :"Dans le but de fournir des soins de santé à toutes les couches sociales, nous offrons des services de qualité à bas prix.",
+    "best_price" :"Meilleur Prix",
+
     "DOCTORS SECTION": "##################DOCTORS SECTION################################",
     "index_doctors_title": "Des Professionnels Attentionnés",
     "index_doctors_paragraph": "Expérimentés et dévoués, nous donnons toujours à nos patients le temps et l'empathie dont ils ont besoin. On se met en quatre pour comprendre tes besoins. Toujours là pour toi !",
@@ -74,7 +94,11 @@
     "footer_column3_title": "Formation",
     "footer_column3_link1": "Nos Formations",
     "footer_column4_title": "Nous Contacter",
-    "footer_column4_link1": "Nous Ecrire"
+    "footer_column4_link1": "Nous Ecrire",
+
+    "SERVICES PAGE": "##################SERVICES PAGE################################",
+    "services_title": "Des Services De Qualité",
+    "services_paragraph": "Nous vous accompagnons dans votre quête du bien-être par des services de qualité."
 
 
 

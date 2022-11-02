@@ -32,7 +32,27 @@
     "index_services5_paragraph": "Smile at life with gentle dental care performed in a clean, friendly setting!",
     "index_services6_title": "Ophthalmology",
     "index_services6_paragraph": "The ophthalmologist focuses on the structure and function of your eyes, as well as the diseases and abnormalities that can affect them.",
+    "index_services7_title": "Births",
+    "index_services7_paragraph": "In clean, welcoming delivery rooms, our midwives have delivered hundreds of healthy babies.",
+    "index_services8_title": "Vaccination",
+    "index_services8_paragraph": "Regular childhood immunization programs are held at our health care facility. Don't hesitate to protect your child!",
+    "index_services9_title": "Training for the health professions",
+    "index_services9_paragraph": "Earn a degree or certificate that effectively prepares you for the professional world.",
+    "index_services10_title": "Radiology",
+    "index_services10_paragraph": "Our medical imaging experts offer reliable ultrasound and radiology for your wellness quest.",
+    "index_services11_title": "Orthopedics",
+    "index_services11_paragraph": "The orthopedist is responsible for the diagnosis and medical and surgical management of diseases of the musculoskeletal system, i.e. bones, joints, ligaments, muscles, tendons and nerves.",
+    "index_services12_title": "Pharmacy",
+    "index_services12_paragraph": "Equipped with a variety of medications to meet any eventuality, our pharmacy is open 24 hours a day.",
+    "index_services13_title": "Advice and follow-up",
+    "index_services13_paragraph": "Mothers with children, couples, and young people can benefit from counseling and follow-up sessions organized by our health professionals.",
     "index_services_btn": "All Our Services",
+    "appointment_btn": "Make An Appointment",
+    "PRICE_SECTION": "##################PRICE_SECTION################################",
+    "price_title" :"Affordable Prices",
+    "price_paragraph" :"In order to provide health care to all social classes, we offer quality services at low prices.",
+    "best_price" :"Best Price",
+
     "DOCTORS SECTION": "##################DOCTORS SECTION################################",
     "index_doctors_title": "Caring Professionals",
     "index_doctors_paragraph": "Experienced and dedicated, we always give our patients the time and empathy they need. We go out of our way to understand your needs. Always there for you!",
@@ -74,7 +94,12 @@
     "footer_column3_title": "Formation",
     "footer_column3_link1": "Our Trainings",
     "footer_column4_title": "Contact Us",
-    "footer_column4_link1": "Write To Us"
+    "footer_column4_link1": "Write To Us",
+
+    "SERVICES PAGE": "##################SERVICES PAGE################################",
+    "services_title": "Quality Services",
+    "services_paragraph": "We accompany you in your quest for well-being with quality services."
+
 
     
 }
